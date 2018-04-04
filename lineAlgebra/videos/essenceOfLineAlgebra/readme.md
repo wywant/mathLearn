@@ -2,10 +2,14 @@
 
 
 # 01 向量究竟是什么 Vectors, what even are they?
- 
+  * 向量是从原点引出，到目标点的带箭头的直线
+  * 向量的相加,是在各个维度标量的独立相加。在几何上的意义，平移第二个向量的起点到第一个向量的终点，连接原点和第二个向量的终点，就得到新向量
 
 # 03 组合、张成的空间与基 Linear combinations, span, and basis vectors
-
+  * 向量可以由基向量经过拉伸和相加得到
+  * 线性相关
+  * 线性无关
+  * 零向量
 
 # 03.2 Linear transformations and matrices
 
