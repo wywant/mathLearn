@@ -11,8 +11,10 @@
   * 线性无关
   * 零向量
 
-# 03.2 Linear transformations and matrices
-
+# 03 矩阵与线性变换 Linear transformations and matrices
+## 向量与基向量的关系在线性变换前后保持不变
+  在线性变换后基向量在平面中的位置也发生了改变， 如果能够知道变换后基向量的位置，通过简单的计算就能够算出任何向量在变换后的位置
+  
 # 04 矩阵乘法与线性变换复合 Matrix multiplication as composition
 
 
